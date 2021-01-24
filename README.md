@@ -1,2 +1,5 @@
 # esperanto keyboard tool
- Un outil de clavier Espéranto
+ Un clavier Espéranto
+ 
+ Pour faire un ĉ, tapez '^c', pour faire un ĵ, tapez '^j', etc.
+ Pour faire un ŭ, tapez '^^u'.
